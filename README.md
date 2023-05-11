@@ -51,4 +51,60 @@
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
 </td>
-
+</tr>
+</tbody>
+</table>
+<table>
+<theader>
+<tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+A. Repositorios del trabajo individual (Laboratorio 01)
+<ul>
+<li>https://github.com/ianthony4/23ALAB00.git</li>
+<li>segunda URL</li>
+</ul>
+B. Solucion del Trabajo Grupal:<br>
+<br>Pasos a detalle...
+<br>1.
+<br>2.
+<br>3.
+</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
+A. ¿Por qué Git y GitHub es una herramienta importante en el curso de Programación Web 2?<br>
+Respuesta: <br>
+...</td></tr>
+<tr><td>III. CONCLUSIONES
+<ul>
+<li>
+1.
+</li>
+<li>
+2.
+</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+<table>
+<theader>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td>I. RETROALIMENTACIÓN:</td></tr>
+<tbody>
+</table>
+<table>
+<theader>
+<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+</theader>
+<tbody>
+<tr><td>I. BIBLIOGRAFÍA
+<ul>
+<li>1. ref1 </li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+                                                                                                                                                                                         109,2       Final                                                                                                                                                                                         37,2          54%
