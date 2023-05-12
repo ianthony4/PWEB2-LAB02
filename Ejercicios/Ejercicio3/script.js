@@ -22,5 +22,4 @@ let diasFaltantes = Math.round((diaAqp.getTime() - hoy.getTime())/(1000 * 60 * 6
 
 //agregandolo al html
 document.getElementById("dias").innerHTML = diasFaltantes;
-console.log(diasFaltantes);
 
