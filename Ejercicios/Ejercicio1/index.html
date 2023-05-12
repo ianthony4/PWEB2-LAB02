@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
-	<head>
-		<meta charset = "utf-8">
-		<meta name= "title" content="html">
-		<meta name= "description" content ="Ejercicio 1">
-		<meta name= "author" content = "Anthony Leonel Chaisa Fernandez">
-		<title> Calcular Dia de la Semana </title>
-	</head> 
-	<body>
-		<div class="dias">
-			<label for="days">Ingrese el numero de dias: </label>
-			<input type="number" id="num" min="0" max = "6">
-	</body>
+    <head>
+	<meta charset = "utf-8">
+    	<meta name= "title" content="html">
+	<meta name= "description" content ="Ejercicio 1">
+    	<meta name= "author" content = "Anthony Leonel Chaisa Fernandez">
+	
+        <script src="scriptFecha.js"></script>
+
+	<title> Calcular Dia de la Semana </title>
+    </head> 
+    <body>
+	<div class="dias">
+    	    <label for="days">Ingrese el numero de dias: </label>
+	    <input type="number" id="num" min="0" max = "6">
+	    <button onclick="respuesta()">Enviar</button>
+    	</div>
+	<div id="respuesta"></div>
+    </body>
 </html>
