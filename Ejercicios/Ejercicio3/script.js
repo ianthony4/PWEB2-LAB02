@@ -1,2 +1,3 @@
-//Creando archivo
+let hoy = new Date();
+console.log(hoy);
 
