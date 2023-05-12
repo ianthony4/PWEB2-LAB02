@@ -9,9 +9,7 @@ let diaAqp = new Date(hoy.getFullYear(),7,15);
 //Aqui hay 2 caminos, si la variable 'hoy' es antes del dia festivo y si la misma es despues del dia festivo
 //se diferenciara eso con un if
 if(hoy.getMonth() >= 7 && hoy.getDate() > 15){
-	
-}else{
-		console.log("estamos antes de la fecha");
+	diaAqp.setFullYear(hoy.getFullYear()+1);	
 }
 console.log(diaAqp);
 
