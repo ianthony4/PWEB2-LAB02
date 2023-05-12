@@ -4,6 +4,6 @@ console.log(hoy);
 //Obtenemos los siguientes metodos para un objeto date que se usaran para resolver el problema
 
 //difiniremos el dia festivo
-let diaAqp = new Date(hoy.getFullYear(),15,7);
+let diaAqp = new Date(hoy.getFullYear(),7,15);
 console.log(diaAqp);
 
