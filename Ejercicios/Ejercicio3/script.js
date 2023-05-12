@@ -1,1 +1,5 @@
 //Creando archivo
+function showFecha{
+		
+}
+
