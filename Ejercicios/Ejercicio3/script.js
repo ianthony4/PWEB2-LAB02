@@ -1,5 +1,2 @@
 //Creando archivo
-function showFecha{
-		
-}
 
