@@ -26,6 +26,8 @@ function crear(){
 
     //Tabla - final
     tabla += "</tabla><br>";
+    //Despues de la tabla crearemos el boton suma desde aqui
+    let botonSumaHtml = `<button type="button" id="suma">Calcular Suma</button>`; 
 
 }
 //Esta funcion recibe un array y devuelve la suma de la tabla
