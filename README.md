@@ -13,14 +13,14 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-002</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
 <span style="font-weight:bold;">INFORME DE LABORATORIO</span><br/>
-<span>(formato estudiante)</span>
+<span>(formato de estudiante)</span>
 </div>
 
 
@@ -30,17 +30,16 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
-<tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
+<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5">https://github.com/ianthony4/PWEB2-LAB02</td></tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">07-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">por definir</td>
+<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">14-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">20:00</td>
 </tr>
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
 <li>Chaisa Fernandez, Anthony Leonel</li>
-<li>INTEGRANTE 2</li>
 </ul>
 </td>
 <td>NOTA:</td><td>Pendiente</td>
@@ -60,20 +59,18 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
-A. Repositorios del trabajo individual (Laboratorio 01)
+A. Solucion del Trabajo Grupal
 <ul>
-<li>https://github.com/ianthony4/23ALAB00.git</li>
-<li>segunda URL</li>
+Desde el ejercicio 1 hasta el 5, solo se crearon 2 archivos:
+<li>index.html</li>
+<li>script.js</ls>
 </ul>
-B. Solucion del Trabajo Grupal:<br>
-<br>Pasos a detalle...
-<br>1.
-<br>2.
-<br>3.
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
-A. ¿Por qué Git y GitHub es una herramienta importante en el curso de Programación Web 2?<br>
-Respuesta: <br>
+A. ¿Como se puede resolver los warning?<br>
+Respuesta: <br><br><br>
+B. ¿Se puede modificar la solución usando map?¿Cómo?<br>
+Respuesta: <br><br><br>
 ...</td></tr>
 <tr><td>III. CONCLUSIONES
 <ul>
@@ -92,8 +89,6 @@ Respuesta: <br>
 <tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
-<tr><td>I. RETROALIMENTACIÓN:</td></tr>
-<tbody>
 </table>
 <table>
 <theader>
@@ -102,7 +97,8 @@ Respuesta: <br>
 <tbody>
 <tr><td>I. BIBLIOGRAFÍA
 <ul>
-<li>1. ref1 </li>
+<li>https://www.w3schools.com/js/default.asp </li>
+<li>https://www.w3schools.com/html/default.asp</li>
 </ul>
 </td></tr>
 </tbody>
