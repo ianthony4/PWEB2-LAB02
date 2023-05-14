@@ -27,7 +27,7 @@ function crear(){
     //Tabla - final
     tabla += "</tabla><br>";
     //Despues de la tabla crearemos el boton suma desde aqui
-    let botonSumaHtml = `<button type="button" id="suma">Calcular Suma</button>`; 
+    let botonSumaHtml = `<button onclick="sumarValores`(tabla)`">Calcular Suma</button>`; 
     //Remplazamos la tabla y el boton en el html
     document.getElementById("formulario").innerHTML = tabla + botonSumaHtml;
     
@@ -38,5 +38,7 @@ function sumarValores(tabla){
     for(let i=0;tabla.length;i++){
         laSuma += tabla[i];
     }
+    console.log(laSuma);
     return laSuma;
+    
 }
