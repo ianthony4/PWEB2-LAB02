@@ -11,4 +11,13 @@ function crear(){
         aleatorio = Math.floor(Math.random() * 100 ) + 1;
         valoresTabla.push(aleatorio);
     }
+
+}
+//Esta funcion recibe un array y devuelve la suma de la tabla
+function sumarValores(tabla){
+    let laSuma = 0;
+    for(let i=0;tabla.length;i++){
+        laSuma += tabla[i];
+    }
+    return laSuma;
 }
