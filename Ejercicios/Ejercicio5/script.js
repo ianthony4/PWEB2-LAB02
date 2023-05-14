@@ -9,7 +9,6 @@ function crear(){
     for(let i=0;i<cant;i++){
         //uso de la funcion random
         aleatorio = Math.floor(Math.random() * 100 ) + 1;
-        
-
+        valoresTabla.push(aleatorio);
     }
 }
