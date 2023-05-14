@@ -40,6 +40,7 @@ function sumarValores(){
         laSuma += valoresTabla[i];
     }
     console.log(laSuma);
+    //remplazamos en el HTML
     document.getElementById("resultado").innerHTML = `<h4>El resultado es `+laSuma+`</h4>`;
     
 }
