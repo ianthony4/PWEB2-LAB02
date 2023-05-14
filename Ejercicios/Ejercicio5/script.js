@@ -36,10 +36,10 @@ function crear(){
 //Esta funcion recibe un array y devuelve la suma de la tabla
 function sumarValores(){
     let laSuma = 0;
-    //for(let i=0;i<tabla.length;i++){
-    //    laSuma += tabla[i];
-    //}
-    console.log(laSuma);
+    for(let i=0;i<valoresTabla.length;i++){
+        laSuma += valoresTabla[i];
+    }
+    //console.log(laSuma);
     return laSuma;
     
 }
