@@ -1,9 +1,9 @@
-
+//Creando arreglo vacio
+var valoresTabla = [];
 function crear(){
     let cant = document.getElementById("cantidad").value;
     console.log(cant);
-    //Creando arreglo vacio
-    var valoresTabla = [];
+    
     //Añadiendo numeros aleatorios del 1 al 100 a cada valor de la tabla
     //Para crear aleatorio se usa Math.random junto con Math.floor 
     let aleatorio = 0;
