@@ -1,2 +1,6 @@
-//Creando archivo
+function mostrar(){
 
+}
+function acortar(){
+    
+}
