@@ -7,8 +7,11 @@ function crear(){
     //Para crear aleatorio se usa Math.random junto con Math.floor 
     let aleatorio = 0;
 
-    //CAMBIOS (AGREGAREMOS HTML AL CODIGO)
-    
+    //Tabla - Cabeza
+    let tabla = `<table>
+    <tr>
+        <th>Valores</th>
+    </tr>`;
     for(let i=0;i<cant;i++){
         //uso de la funcion random
         aleatorio = Math.floor(Math.random() * 100 ) + 1;
