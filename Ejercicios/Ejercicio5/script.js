@@ -31,7 +31,7 @@ function crear(){
     let botonSumaHtml = `<button onclick="sumarValores()">Calcular Suma</button>`; 
     //Remplazamos la tabla y el boton en el html
     document.getElementById("formulario").innerHTML = tabla + botonSumaHtml;
-    
+
 }
 //Esta funcion recibe un array y devuelve la suma de la tabla
 function sumarValores(){
@@ -39,7 +39,7 @@ function sumarValores(){
     for(let i=0;i<valoresTabla.length;i++){
         laSuma += valoresTabla[i];
     }
-    //console.log(laSuma);
-    return laSuma;
+    console.log(laSuma);
+    document.getElementById("resultado").innerHTML = `<h4>El resultado es `+laSuma+`</h4>`;
     
 }
