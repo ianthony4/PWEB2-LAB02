@@ -19,6 +19,9 @@ function crear(){
         valoresTabla.push(aleatorio);
         //usamos la metodo 'push' debido a que no nos intera la posicion en que agreguemos
         //los valores, solo necesitamos 'empujarlos' para que entren
+
+        //Tabla - Cuerpo
+        tabla += "<tr><td>"+aleatorio+"</td></tr>";
     }
 
 }
