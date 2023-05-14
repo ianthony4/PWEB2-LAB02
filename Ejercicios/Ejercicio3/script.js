@@ -21,5 +21,6 @@ if(hoy.getMonth() >= 7 && hoy.getDate() > 15){
 let diasFaltantes = Math.ceil((diaAqp.getTime() - hoy.getTime())/(1000 * 60 * 60 * 24)); //con esta operacion 1000*60... convertimos a dias
 console.log(diasFaltantes);
 //agregandolo al html
-document.getElementById("dias").innerHTML = diasFaltantes;
+
+document.getElementById("respuesta").innerHTML = diasFaltantes;
 
