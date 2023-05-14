@@ -9,7 +9,10 @@ function crear(){
     for(let i=0;i<cant;i++){
         //uso de la funcion random
         aleatorio = Math.floor(Math.random() * 100 ) + 1;
+        //se añaden los valores a la tabla
         valoresTabla.push(aleatorio);
+        //usamos la metodo 'push' debido a que no nos intera la posicion en que agreguemos
+        //los valores, solo necesitamos 'empujarlos' para que entren
     }
 
 }
