@@ -24,6 +24,9 @@ function crear(){
         tabla += "<tr><td>"+aleatorio+"</td></tr>";
     }
 
+    //Tabla - final
+    tabla += "</tabla><br>";
+
 }
 //Esta funcion recibe un array y devuelve la suma de la tabla
 function sumarValores(tabla){
