@@ -3,6 +3,7 @@ function mostrar(){
     let enlace = document.getElementById("enlace").value;
     console.log(enlace);
     let acortado = acortar(enlace);
+    document.getElementById("respuesta").innerHTML = acortado;
 }
 //En esta funcion procesamos el texto y lo mandamos como respuesta
 function acortar(enlace){
@@ -14,8 +15,8 @@ function acortar(enlace){
         aux = enlace.slice(24,27)+enlace.slice(28,32)+enlace.slice(33,36);
      
     }else{
-        document.getElementById("respuesta").innerHTML = "Error, URL no valida";
+        aux = "Error, URL no valida";
     }
-    return enlace;
+    return aux;
 
 }
