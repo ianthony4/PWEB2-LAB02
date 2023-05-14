@@ -18,8 +18,8 @@ if(hoy.getMonth() >= 7 && hoy.getDate() > 15){
 
 //Para redondear usaremos Math.round() y la sumaremos +1 para un numero un poco mas cercano
 
-let diasFaltantes = Math.round((diaAqp.getTime() - hoy.getTime())/(1000 * 60 * 60 * 24))+1; //con esta operacion 1000*60... convertimos a dias
-
+let diasFaltantes = Math.ceil((diaAqp.getTime() - hoy.getTime())/(1000 * 60 * 60 * 24)); //con esta operacion 1000*60... convertimos a dias
+console.log(diasFaltantes);
 //agregandolo al html
 document.getElementById("dias").innerHTML = diasFaltantes;
 
