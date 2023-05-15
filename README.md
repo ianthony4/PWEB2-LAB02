@@ -115,10 +115,13 @@ por la sugerencia "+=1"</li>
 <tr><td>III. CONCLUSIONES
 <ul>
 <li>
-1.
+No hay duda alguna que JAVASCRIPT es uno de los mejores lenguajes de programacion para el Desarrollo Web Moderno, ofrece interactividad y dinamismo a nuestra pagina web.
 </li>
 <li>
-2.
+Esto es algo que no se tocado AUN en el curso pero la sensacion es alentadora cuando existen blibliotecas y frameworks que mejoran la pagina web, la hacen mas facil y rapidas de desarrollar y llevarlas a niveles altos.
+</li>
+Las posibilidades son INFINITAS
+<li>
 </li>
 </ul>
 </td></tr>
