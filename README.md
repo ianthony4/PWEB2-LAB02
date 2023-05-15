@@ -75,15 +75,15 @@ B. Este laboratorio se desarrollo con los siguientes aspecto:
 <li>Se realizaron comentarios de manera muy explicita (en los .js) para saber que funcion en el codigo realiza cada elemento utilizado
 <br><img src="labImg/comjs.png">
 </ul>
-C. Elementos utilizados:
+C. Elementos utilizados:<br>
 <ul>
 Algunos elementos NUEVOS y NOTABLES que utilizamos para el desarrollo de estos ejercicios<br>
-De HTML
+<br>De HTML<br>
 <li>onclick : Llama a la funcion vinculada al script</li>
 <li>id's : Permiten identificar y hacer unicos a ciertos elementos del HTML, para extraer su informacion.</li>
 <li>Etiqueta - DIV : Identificada con un ID, permite modificar/eliminar solo esa estructura del HTML</li>
 <li>console.log() : Permitio probar el valor de la variables en el navegador</li>
-De JavaScript/DOM
+<br>De JavaScript/DOM<br>
 <li>innerHTML : Remplaza partes del html, sin recargar la pagina</li>
 <li>getElementById() : Obtiene el elemento de ese ID especifico</li>
 <li>value : junto al getElementById() extraemos ese valor y lo almacenamos en una variable</li>
@@ -94,8 +94,8 @@ De JavaScript/DOM
 <h1>Enlace Flipgrip</h1>
 <li>enlace</li>
 </td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
-A. ¿Como se puede resolver los warning?<br>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br><br>
+A. ¿Como se puede resolver los warning?<br><br>
 <li>Unexpected let: Se puede solucionar eliminando la palabra clave "let"</li>
 <li>Expected ";" and instead saw "}": Debemos agregar un ";" al final del return</li>
 <li>Expected "+=1" and instead saw "++": Modificaremos el incremento del for "++"
@@ -108,7 +108,7 @@ por la sugerencia "+=1"</li>
 <img src="labImg/opciones.png">
 <li>De esa forma el codigo queda sin WARNINGS</li>
 <img src="labImg/nowarning.png">
-<br><br>B. ¿Se puede modificar la solución usando map?¿Cómo?<br>
+<br><br>B. ¿Se puede modificar la solución usando map?¿Cómo?<br><br>
 <li>Podemos primero iniciar un arreglo con "n" número de elementos random con ayuda de Math.random() y luego hacer un map a todos esos elementos de la siguiente manera </li>
  <img src ="labImg/sol2.png">
 </td></tr>
