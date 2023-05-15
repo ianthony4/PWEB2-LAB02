@@ -69,8 +69,11 @@ Desde el ejercicio 1 hasta el 5, solo se crearon 2 archivos:
 B. Este laboratorio se desarrollo con los siguientes aspecto:
 <ul>
 <li>Bastantes explicaciones del desarrollo de cada ejercicio, mas de 100 commits</li>
+<br><img src="labImg/commits.png">
 <li>Se realizaron al rededor de 8 MERGE, donde cada 5 representan la culminacion de cada Ejercicio (1 al 5)</li>
+<br><img src="labImg/merges.png">
 <li>Se realizaron comentarios de manera muy explicita (en los .js) para saber que funcion en el codigo realiza cada elemento utilizado
+<br><img src="labImg/comjs.png">
 </ul>
 
 C. Elementos utilizados:
