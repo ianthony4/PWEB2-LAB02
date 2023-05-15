@@ -31,11 +31,11 @@
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
-<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5"><!--https://github.com/ianthony4/PWEB2-LAB02--></td></tr>
+<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5">https://github.com/ianthony4/PWEB2-LAB02</td></tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">14-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">20:00</td>
+<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">15-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">02:00</td>
 </tr>
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
@@ -92,7 +92,8 @@ Algunos elementos NUEVOS y NOTABLES que utilizamos para el desarrollo de estos e
 <li>push : Este metodo agrega elementos a nuestro arreglo </li>
 </ul>
 <h1>Enlace Flipgrip</h1>
-<li>enlace</li>
+<li>Parte 1 - https://flip.com/s/gx7VEdeTRo-f </li>
+<li>Parte 2 - https://flip.com/s/yt8SUE5xPrAp </li>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br><br>
 A. ¿Como se puede resolver los warning?<br><br>
