@@ -142,6 +142,10 @@ Las posibilidades son INFINITAS
 <ul>
 <li>https://www.w3schools.com/js/default.asp </li>
 <li>https://www.w3schools.com/html/default.asp</li>
+<br>Para la Resolucion del JsLint<br><br>
+<li>https://www.jslint.com/help.html#for</li>
+<li>https://stackoverflow.com/questions/47483685/jslint-was-unable-to-finish-16-4expected-an-identifier-and-instead-saw</li>
+<li>https://stackoverflow.com/questions/30518554/jslint-unexpected-for</li>
 </ul>
 </td></tr>
 </tbody>
