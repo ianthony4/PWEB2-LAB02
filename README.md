@@ -100,9 +100,9 @@ A. ¿Como se puede resolver los warning?<br>
 <li>Expected "+=1" and instead saw "++": Modificaremos el incremento del for "++"
 por la sugerencia "+=1"</li>
 <li>Codigo Original<li>
-<img src="https://github.com/rescobedoq/pw2/lab02/arrayGenerator.js.png">
+<img src="https://github.com/rescobedoq/pw2/blob/main/labs/lab02/arrayGenerator.js.png">
 <li>Codigo Corregido</li>
-<img src="labImg/jslinglisto.png">
+<img src="labImg/jslintlisto.png">
 <li>Por otro lado, tambien se tienen que activar ciertas opciones para que el ciclo FOR funcione</li>
 <img src="labImg/opciones.png">
 <li>De esa forma el codigo queda sin WARNINGS</li>
