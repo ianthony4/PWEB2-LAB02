@@ -99,12 +99,14 @@ A. ¿Como se puede resolver los warning?<br>
 <li>Expected ";" and instead saw "}": Debemos agregar un ";" al final del return</li>
 <li>Expected "+=1" and instead saw "++": Modificaremos el incremento del for "++"
 por la sugerencia "+=1"</li>
-<br><li>Codigo Original<li><br>
+<li>Codigo Original<li>
 <img src="https://github.com/rescobedoq/pw2/lab02/arrayGenerator.js.png">
-<br><li>Codigo Corregido</li><br>
+<li>Codigo Corregido</li>
 <img src="labImg/jslinglisto.png">
-<br><li>Por otro lado, tambien se tienen que activar ciertas opciones para que el ciclo FOR funcione</li>
+<li>Por otro lado, tambien se tienen que activar ciertas opciones para que el ciclo FOR funcione</li>
 <img src="labImg/opciones.png">
+<li>De esa forma el codigo queda sin WARNINGS</li>
+<img src="labImg/nowarning.png">
 B. ¿Se puede modificar la solución usando map?¿Cómo?<br>
 <li>Podemos primero iniciar un arreglo con "n" número de elementos random con ayuda de Math.random() y luego hacer un map a todos esos elementos de la siguiente manera </li>
  <img src ="labImg/sol2.png">
