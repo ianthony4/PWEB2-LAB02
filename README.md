@@ -13,14 +13,14 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-002</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
 <span style="font-weight:bold;">INFORME DE LABORATORIO</span><br/>
-<span>(formato estudiante)</span>
+<span>(formato de estudiante)</span>
 </div>
 
 
@@ -30,17 +30,16 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
-<tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
+<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5">https://github.com/ianthony4/PWEB2-LAB02</td></tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">07-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">por definir</td>
+<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">15-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">02:00</td>
 </tr>
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
 <li>Chaisa Fernandez, Anthony Leonel</li>
-<li>INTEGRANTE 2</li>
 </ul>
 </td>
 <td>NOTA:</td><td>Pendiente</td>
@@ -60,28 +59,70 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
-A. Repositorios del trabajo individual (Laboratorio 01)
+A. Solucion del Trabajo Grupal
 <ul>
-<li>https://github.com/ianthony4/23ALAB00.git</li>
-<li>segunda URL</li>
+Desde el ejercicio 1 hasta el 5, solo se crearon 2 archivos:
+<li>index.html</li>
+<li>script.js</ls>
+<br><img src="labImg/nerdTree.png">
 </ul>
-B. Solucion del Trabajo Grupal:<br>
-<br>Pasos a detalle...
-<br>1.
-<br>2.
-<br>3.
+B. Este laboratorio se desarrollo con los siguientes aspecto:
+<ul>
+<li>Bastantes explicaciones del desarrollo de cada ejercicio, mas de 100 commits</li>
+<br><img src="labImg/commits.png">
+<li>Se realizaron al rededor de 8 MERGE, donde cada 5 representan la culminacion de cada Ejercicio (1 al 5)</li>
+<br><img src="labImg/merges.png">
+<li>Se realizaron comentarios de manera muy explicita (en los .js) para saber que funcion en el codigo realiza cada elemento utilizado
+<br><img src="labImg/comjs.png">
+</ul>
+C. Elementos utilizados:<br>
+<ul>
+Algunos elementos NUEVOS y NOTABLES que utilizamos para el desarrollo de estos ejercicios<br>
+<br>De HTML<br>
+<li>onclick : Llama a la funcion vinculada al script</li>
+<li>id's : Permiten identificar y hacer unicos a ciertos elementos del HTML, para extraer su informacion.</li>
+<li>Etiqueta - DIV : Identificada con un ID, permite modificar/eliminar solo esa estructura del HTML</li>
+<li>console.log() : Permitio probar el valor de la variables en el navegador</li>
+<br>De JavaScript/DOM<br>
+<li>innerHTML : Remplaza partes del html, sin recargar la pagina</li>
+<li>getElementById() : Obtiene el elemento de ese ID especifico</li>
+<li>value : junto al getElementById() extraemos ese valor y lo almacenamos en una variable</li>
+<li>new Date() : Permite crear objetos de tipo DATO y TIEMPO</li>
+<li>Math : Los diferentes metodos de la clase Math, permitieron redondear, generar aleatorios</li>
+<li>push : Este metodo agrega elementos a nuestro arreglo </li>
+</ul>
+<h1>Enlace Flipgrip</h1>
+<li>Parte 1 - https://flip.com/s/gx7VEdeTRo-f </li>
+<li>Parte 2 - https://flip.com/s/yt8SUE5xPrAp </li>
 </td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
-A. ¿Por qué Git y GitHub es una herramienta importante en el curso de Programación Web 2?<br>
-Respuesta: <br>
-...</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br><br>
+A. ¿Como se puede resolver los warning?<br><br>
+<li>Unexpected let: Se puede solucionar eliminando la palabra clave "let"</li>
+<li>Expected ";" and instead saw "}": Debemos agregar un ";" al final del return</li>
+<li>Expected "+=1" and instead saw "++": Modificaremos el incremento del for "++"
+por la sugerencia "+=1"</li>
+<li>Codigo Original</li>
+<img src="https://github.com/rescobedoq/pw2/blob/main/labs/lab02/arrayGenerator.js.png">
+<li>Codigo Corregido</li>
+<img src="labImg/jslintlisto.png">
+<li>Por otro lado, tambien se tienen que activar ciertas opciones para que el ciclo FOR funcione</li>
+<img src="labImg/opciones.png">
+<li>De esa forma el codigo queda sin WARNINGS</li>
+<img src="labImg/nowarning.png">
+<br><br>B. ¿Se puede modificar la solución usando map?¿Cómo?<br><br>
+<li>Podemos primero iniciar un arreglo con "n" número de elementos random con ayuda de Math.random() y luego hacer un map a todos esos elementos de la siguiente manera </li>
+ <img src ="labImg/sol2.png">
+</td></tr>
 <tr><td>III. CONCLUSIONES
 <ul>
 <li>
-1.
+No hay duda alguna que JAVASCRIPT es uno de los mejores lenguajes de programacion para el Desarrollo Web Moderno, ofrece interactividad y dinamismo a nuestra pagina web.
 </li>
 <li>
-2.
+Esto es algo que no se tocado AUN en el curso pero la sensacion es alentadora cuando existen blibliotecas y frameworks que mejoran la pagina web, la hacen mas facil y rapidas de desarrollar y llevarlas a niveles altos.
+</li>
+<li>
+Las posibilidades son INFINITAS
 </li>
 </ul>
 </td></tr>
@@ -92,8 +133,11 @@ Respuesta: <br>
 <tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
-<tr><td>I. RETROALIMENTACIÓN:</td></tr>
-<tbody>
+<tr><td>
+<pre>                                                                   </pre>
+<pre>                                                                   </pre>
+</td></tr>
+</tbody>
 </table>
 <table>
 <theader>
@@ -102,7 +146,12 @@ Respuesta: <br>
 <tbody>
 <tr><td>I. BIBLIOGRAFÍA
 <ul>
-<li>1. ref1 </li>
+<li>https://www.w3schools.com/js/default.asp </li>
+<li>https://www.w3schools.com/html/default.asp</li>
+<br>Para la Resolucion del JsLint<br><br>
+<li>https://www.jslint.com/help.html#for</li>
+<li>https://stackoverflow.com/questions/47483685/jslint-was-unable-to-finish-16-4expected-an-identifier-and-instead-saw</li>
+<li>https://stackoverflow.com/questions/30518554/jslint-unexpected-for</li>
 </ul>
 </td></tr>
 </tbody>
