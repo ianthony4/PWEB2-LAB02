@@ -75,7 +75,6 @@ B. Este laboratorio se desarrollo con los siguientes aspecto:
 <li>Se realizaron comentarios de manera muy explicita (en los .js) para saber que funcion en el codigo realiza cada elemento utilizado
 <br><img src="labImg/comjs.png">
 </ul>
-
 C. Elementos utilizados:
 <ul>
 Algunos elementos NUEVOS y NOTABLES que utilizamos para el desarrollo de estos ejercicios<br>
@@ -91,6 +90,8 @@ De JavaScript/DOM
 <li>new Date() : Permite crear objetos de tipo DATO y TIEMPO</li>
 <li>Math : Los diferentes metodos de la clase Math, permitieron redondear, generar aleatorios</li>
 </ul>
+### Enlace Flipgrip
+<li>enlace</li>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
 A. ¿Como se puede resolver los warning?<br>
