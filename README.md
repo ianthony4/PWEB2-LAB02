@@ -31,8 +31,8 @@
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
-<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5">https://github.com/ianthony4/PWEB2-LAB02</td></tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5"><!--https://github.com/ianthony4/PWEB2-LAB02--></td></tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td colspan="2">14-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">20:00</td>
