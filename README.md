@@ -90,7 +90,7 @@ De JavaScript/DOM
 <li>new Date() : Permite crear objetos de tipo DATO y TIEMPO</li>
 <li>Math : Los diferentes metodos de la clase Math, permitieron redondear, generar aleatorios</li>
 </ul>
-###Enlace Flipgrip
+<h1>Enlace Flipgrip</h1>
 <li>enlace</li>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
