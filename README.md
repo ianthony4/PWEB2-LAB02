@@ -64,6 +64,29 @@ A. Solucion del Trabajo Grupal
 Desde el ejercicio 1 hasta el 5, solo se crearon 2 archivos:
 <li>index.html</li>
 <li>script.js</ls>
+<br><img src="labImg/nerdTree.png">
+</ul>
+B. Este laboratorio se desarrollo con los siguientes aspecto:
+<ul>
+<li>Bastantes explicaciones del desarrollo de cada ejercicio, mas de 100 commits</li>
+<li>Se realizaron al rededor de 8 MERGE, donde cada 5 representan la culminacion de cada Ejercicio (1 al 5)</li>
+<li>Se realizaron comentarios de manera muy explicita (en los .js) para saber que funcion en el codigo realiza cada elemento utilizado
+</ul>
+
+C. Elementos utilizados:
+<ul>
+Algunos elementos NUEVOS y NOTABLES que utilizamos para el desarrollo de estos ejercicios<br>
+De HTML
+<li>onclick : Llama a la funcion vinculada al script</li>
+<li>id's : Permiten identificar y hacer unicos a ciertos elementos del HTML, para extraer su informacion.</li>
+<li>Etiqueta - DIV : Identificada con un ID, permite modificar/eliminar solo esa estructura del HTML</li>
+<li>console.log() : Permitio probar el valor de la variables en el navegador</li>
+De JavaScript/DOM
+<li>innerHTML : Remplaza partes del html, sin recargar la pagina</li>
+<li>getElementById() : Obtiene el elemento de ese ID especifico</li>
+<li>value : junto al getElementById() extraemos ese valor y lo almacenamos en una variable</li>
+<li>new Date() : Permite crear objetos de tipo DATO y TIEMPO</li>
+<li>Math : Los diferentes metodos de la clase Math, permitieron redondear, generar aleatorios</li>
 </ul>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
