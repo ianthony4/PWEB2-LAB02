@@ -120,8 +120,8 @@ No hay duda alguna que JAVASCRIPT es uno de los mejores lenguajes de programacio
 <li>
 Esto es algo que no se tocado AUN en el curso pero la sensacion es alentadora cuando existen blibliotecas y frameworks que mejoran la pagina web, la hacen mas facil y rapidas de desarrollar y llevarlas a niveles altos.
 </li>
-Las posibilidades son INFINITAS
 <li>
+Las posibilidades son INFINITAS
 </li>
 </ul>
 </td></tr>
@@ -132,6 +132,11 @@ Las posibilidades son INFINITAS
 <tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
+<tr><td>
+<pre>                                                                   </pre>
+<pre>                                                                   </pre>
+</td></tr>
+</tbody>
 </table>
 <table>
 <theader>
