@@ -89,6 +89,7 @@ De JavaScript/DOM
 <li>value : junto al getElementById() extraemos ese valor y lo almacenamos en una variable</li>
 <li>new Date() : Permite crear objetos de tipo DATO y TIEMPO</li>
 <li>Math : Los diferentes metodos de la clase Math, permitieron redondear, generar aleatorios</li>
+<li>push : Este metodo agrega elementos a nuestro arreglo </li>
 </ul>
 <h1>Enlace Flipgrip</h1>
 <li>enlace</li>
@@ -99,7 +100,7 @@ A. ¿Como se puede resolver los warning?<br>
 <li>Expected ";" and instead saw "}": Debemos agregar un ";" al final del return</li>
 <li>Expected "+=1" and instead saw "++": Modificaremos el incremento del for "++"
 por la sugerencia "+=1"</li>
-<li>Codigo Original<li>
+<li>Codigo Original</li>
 <img src="https://github.com/rescobedoq/pw2/blob/main/labs/lab02/arrayGenerator.js.png">
 <li>Codigo Corregido</li>
 <img src="labImg/jslintlisto.png">
@@ -107,7 +108,7 @@ por la sugerencia "+=1"</li>
 <img src="labImg/opciones.png">
 <li>De esa forma el codigo queda sin WARNINGS</li>
 <img src="labImg/nowarning.png">
-B. ¿Se puede modificar la solución usando map?¿Cómo?<br>
+<br><br>B. ¿Se puede modificar la solución usando map?¿Cómo?<br>
 <li>Podemos primero iniciar un arreglo con "n" número de elementos random con ayuda de Math.random() y luego hacer un map a todos esos elementos de la siguiente manera </li>
  <img src ="labImg/sol2.png">
 </td></tr>
